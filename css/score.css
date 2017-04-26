@@ -1,0 +1,73 @@
+body {background: #ffeead;
+display: block;
+margin:0
+width:80%;
+ }
+
+
+#banner {
+background: #999 url("https://scontent.xx.fbcdn.net/v/t1.0-9/13925083_10210270472025109_3240060794637377182_n.jpg?oh=138c656c52f799f3bc0c4e45a6aa1516&oe=5990510F") no-repeat center top;
+background-size: cover;
+padding: 5% 0;
+text-align: center;
+margin: 1em -0.5em ;}
+
+#banner h1 {
+display: inline-block;
+font: bold 3em/1.15 PT-sans, sans-serif;
+font-size: 3.3em;
+color:  #fff;
+padding: 0.1em;
+
+}
+img.title {display: inline-block;
+margin:-0.5em 1em 0.5em 1em;
+max-width: 7em;
+float: right;
+border: 15px solid #96ceb4;}
+
+img.teach {display:block;
+  max-width:25em;
+margin:auto;
+border: 7px solid #ff6f69; }
+
+
+ul.menu {list-style:none;
+display:block;
+float:center;
+text-align:center;
+background: #ff6f69;
+padding-left:0;
+padding-bottom: 0.5em;
+margin:-0.5em -0.5em 1em -0.5em;
+
+}
+
+li {overflow:hidden;
+display:inline-block;
+text-align:center;
+float:center;
+font-size: 1.1em;
+font-family: georgia;
+padding: 0.5em 1em ; }
+
+h3.mission {margin: 1em;
+  max-width: 8em;
+  padding: 0.5em 0.5em;
+  background:#96ceb4;
+font-family:georgia;
+font-size: 1.5em;
+border: 5px solid #fff; }
+
+h4.title {font-size: 1.2em;
+  line-height: 1.7em;
+  
+
+background: #ffcc5c;
+margin: 1em -0.5em;
+padding: 0.5em 1em; }
+
+
+p {font-family:georgia;
+line-height: 1.5em;}
+h5 {text-align:right;}
